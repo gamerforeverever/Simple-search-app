@@ -1,4 +1,4 @@
-# [Simple Search](https://simplesearch.netlify.app)
+# [Simple Search](https://simplesearchs.netlify.app)
 
 A simple, fast and privacy-friendly open-source search engine.
 
@@ -39,7 +39,7 @@ Cloudflare Worker (backend)
 
 ### Option 1: use over web
 
-1. go to [Simple Search Website](simplesearchs.netlify.app)
+1. go to [Simple Search Website](https://simplesearchs.netlify.app))
 2. done
    
 ### Option 2: Download
