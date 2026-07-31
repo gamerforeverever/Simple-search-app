@@ -1,4 +1,4 @@
-# Simple Search
+# Simple Search simplesearchs.netlify.app
 
 A simple, fast and privacy-friendly open-source search engine.
 
