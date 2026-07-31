@@ -1,4 +1,4 @@
-# [Simple Search](simplesearch.netlify.app)
+# [Simple Search](https//:simplesearch.netlify.app)
 
 A simple, fast and privacy-friendly open-source search engine.
 
