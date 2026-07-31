@@ -1,5 +1,7 @@
 # [Simple Search](https://simplesearchs.netlify.app)
 
+# THIS IS ALL BETA ALL FILES WILL BE PUBLISHED IN SOME DAYS
+
 A simple, fast and privacy-friendly open-source search engine.
 
 Simple Search is a lightweight search experience focused on simplicity, speed and clean design. No ads, no tracking, no unnecessary features just search.
